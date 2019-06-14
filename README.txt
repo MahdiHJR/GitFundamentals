@@ -5,3 +5,4 @@ Addded new data and config
 MAHDI
 YAHYA
 Feature 1
+Fixing bug#1234
